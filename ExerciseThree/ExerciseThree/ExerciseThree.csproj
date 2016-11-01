@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8BDA00B3-2ECF-46E8-89EA-AF5098AECB4B}</ProjectGuid>
+    <ProjectGuid>{B0D53B70-CB00-4FE1-923B-7F45AF0A59DD}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ExerciseTwo</RootNamespace>
-    <AssemblyName>ExerciseTwo</AssemblyName>
+    <RootNamespace>ExerciseThree</RootNamespace>
+    <AssemblyName>ExerciseThree</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ExerciseTwo.cs" />
+    <Compile Include="ExerciseThree.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
