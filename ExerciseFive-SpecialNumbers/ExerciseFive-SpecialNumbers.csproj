@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{42C97CCC-9BBE-438E-9848-AFCC18688F93}</ProjectGuid>
+    <ProjectGuid>{167B04A4-9DCB-4536-9EC0-3E9AF5A2DFBE}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ExerciseFour</RootNamespace>
-    <AssemblyName>ExerciseFour</AssemblyName>
+    <RootNamespace>ExerciseFive_SpecialNumbers</RootNamespace>
+    <AssemblyName>ExerciseFive-SpecialNumbers</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ExerciseFourElevator.cs" />
+    <Compile Include="ExerciseFiveSpecialNumbers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
